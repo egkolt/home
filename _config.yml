@@ -22,7 +22,7 @@ title: Growth & Stuff
 email: 
 description: >-Some nakpin scribbles and late night musings on business.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://egkolt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://egkolt.github.io/home" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 # Build settings
